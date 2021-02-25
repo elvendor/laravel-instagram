@@ -20,11 +20,11 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
-        "illuminate/config": "5.8.*|^6.0|^7.0",
-        "illuminate/support": "5.8.*|^6.0|^7.0",
+        "illuminate/config": "5.8.*|^6.0|^7.0|^8.0",
+        "illuminate/support": "5.8.*|^6.0|^7.0|^8.0",
         "vinkla/instagram": "^9.3",
         "php-http/guzzle6-adapter": "^2.0",
-        "php-http/message": "^1.8"
+        "php-http/message": "^1.11"
     },
     "require-dev": {
         "orchestra/testbench": "3.8.*",
